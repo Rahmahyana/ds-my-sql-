@@ -1,3 +1,5 @@
+-- buka pake sf my sql
+
 -- Memunculkan list database
 SHOW DATABASES;
 
